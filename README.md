@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DanieleDAnnibale
-- 👀 I’m interested in IT, IA, Gaming
+- 👀 I’m interested in IT, AI, Games & Music
 - 🌱 I’m currently learning Java, Spring, Html, CSS, JavaScript, Python, MySQL
 - 💞️ I’m looking to collaborate on all kinds of projects
 - 📫 How to reach me: https://www.linkedin.com/in/daniele-d-annibale-a00792264/
