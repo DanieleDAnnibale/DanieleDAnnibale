@@ -47,14 +47,38 @@ I enjoy building and running my own infrastructure — from Kubernetes clusters 
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-![Daniele's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanieleDAnnibale&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanieleDAnnibale&layout=compact&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DanieleDAnnibale&theme=dark&hide_border=true)](https://github.com/DanieleDAnnibale)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DanieleDAnnibale&theme=github-compact&hide_border=true)](https://github.com/DanieleDAnnibale)
 
 </div>
+
+---
+
+## Projects
+
+### time-ledger
+
+A personal time-tracking application I built and run on my own cluster.  
+It exposes Prometheus metrics and pushes traces and logs via **OTLP**, fully integrated with my observability stack (OpenTelemetry Collector → Tempo → Loki → Grafana).  
+The project is the main driver for my work on distributed tracing and instrumentation.
+
+---
+
+### Self-hosted k3s Cluster
+
+I run a home-lab **k3s** (lightweight Kubernetes) cluster where I deploy and maintain everything from scratch using **Fleet** (GitOps) + **Kustomize**.
+
+| Category | What's running |
+|---|---|
+| **Applications** | Zitadel (IdP/OIDC), PostgreSQL, Cloudflare Tunnel, Docling (GPU), JSON Résumé, Fossflow |
+| **Game Servers** | Minecraft (Paper 1.21), Palworld, Satisfactory |
+| **Observability** | Prometheus, Grafana, Loki, Tempo, Alloy, OTel Operator & Collector, kube-state-metrics |
+| **Infrastructure** | cert-manager, Sealed Secrets, GitHub ARC runners, NVIDIA device plugin, internal registry, Rancher Backup → Cloudflare R2 |
 
 ---
 
