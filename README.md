@@ -16,7 +16,7 @@ Java Backend Developer with a focus on architecture and cloud infrastructure.
 I build and maintain a self-hosted **k3s cluster** managed entirely via GitOps — from containerised applications
 and full observability stacks to game servers and AI tooling.
 
-- Full-stack applications in production: **[Time-Ledger](https://time-ledger.daniele-dev.com)** and **[Trek](https://trek.daniele-dev.com)**
+- Full-stack application in production: **[Time-Ledger](https://time-ledger.daniele-dev.com)**.
 - Deep hands-on with **observability**: OpenTelemetry traces, Loki logs, Prometheus metrics — all wired into Grafana
 - Self-hosted **k3s cluster** (Fleet + Kustomize) with GitOps-only changes — no manual `kubectl` in prod
 - Personal knowledge base in Obsidian with 100+ notes, Dataview queries and a live knowledge graph
