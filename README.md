@@ -84,17 +84,6 @@ Full-stack time-tracking app designed, built and deployed on my own cluster.
 
 ---
 
-### [Trek](https://trek.daniele-dev.com) · `production`
-
-Self-hosted travel tracking app with interactive maps and place enrichment.
-
-**Stack:** Node.js · Mapbox GL · Google Places API · Open-Meteo · Zitadel OIDC
-
-- Interactive trip logging, weather data, place enrichment from Google Places
-- Restricted access: only authorised Zitadel users can log in
-
----
-
 ### Self-hosted k3s Cluster
 
 Home-lab **k3s** cluster where everything is declared in Git.  
